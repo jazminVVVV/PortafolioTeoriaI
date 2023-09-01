@@ -1,4 +1,4 @@
-# PortafolioTI
+# PortafolioTI hola
 Portafolio de la asignatura Teoría de la Información
 
 # Simulador de Sistema de Comunicación de un Robot Espacial
